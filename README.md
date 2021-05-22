@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Since 2019, I work as a postdoctoral researcher in the [research group](https://data-analytics-lab.netlify.app/) of Prof. Stéphane Guerrier at the University of Geneva where I enjoy contributing to our various interdisciplinary projects. 
+
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/samorso/samorso">
